@@ -2,8 +2,6 @@
 1. [User Experience (UX)](#user-experience)
    * [Project Goals](#project-goals)
    * [User Goals](#user-goals)
-     * [Players](#players)
-     * Referees
 2. [Features](#features)
    * [Existing Features](#existing-features)
    * [Features Left to Implement](#features-left-to-implement)
