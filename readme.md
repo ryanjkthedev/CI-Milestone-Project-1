@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 1. User Experience (UX)
    * Project Goals
    * User Goals
@@ -16,3 +16,29 @@
    * Media
    * Code
    * Acknowledgements
+
+
+## User Experience
+### Project 
+
+### User Goals
+#### Players
+#### Referees
+
+## Features
+### Existing Featrures
+### Features Left to Implement
+
+## Technologies Used
+
+## Testing
+
+## Deployment
+### How to Run this Project Locally
+
+## Credits
+### Content
+### Media
+### Code
+### Acknowledgements
+
