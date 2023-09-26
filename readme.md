@@ -2,6 +2,8 @@
 1. [User Experience (UX)](#user-experience)
    * [Project Goals](#project-goals)
    * [User Goals](#user-goals)
+   * [Design Choices](#design-choices)
+   * [Wireframes](#wireframes)
 2. [Features](#features)
    * [Existing Features](#existing-features)
    * [Features Left to Implement](#features-left-to-implement)
@@ -42,6 +44,11 @@ as penalties, free kicks, sin bins and red cards.
 
 Much of this won't be achieved using this project, but the visuals will help to present an image of a professionally run league that acts fairly to its various stakeholders. For functionality, there will be a form with ease-of-use in mind
 for them to apply and become an official affiliated with the league, making them eligible for match appointments.
+
+## Design Choices
+
+## Wireframes
+
 
 ## Features
 ### Existing Features
