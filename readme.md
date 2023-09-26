@@ -49,6 +49,14 @@ for them to apply and become an official affiliated with the league, making them
 
 ## Wireframes
 
+At the start of this project, the layout of the website was set out using wireframes. These wireframes were created using [Sketchup](https://sketch.io/sketchpad/).
+
+The wireframes are as follows:
+* [Home Page](doc/assets/pdf/homepage-wireframe.pdf)
+* [Rules Page](doc/assets/pdf/rules-wireframe.pdf)
+* [Tables Page](doc/assets/pdf/tables-wireframe.pdf)
+* [Contact Page](doc/assets/pdf/contact-wireframe.pdf)
+* [Sign Up Page](doc/assets/pdf/signup-wireframe.pdf)
 
 ## Features
 ### Existing Features
